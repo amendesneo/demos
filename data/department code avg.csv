@@ -1,0 +1,102 @@
+code,department,cp
+1,Ain,01160
+2,Aisne,02000
+3,Allier,03240
+4,Alpes-de-Haute-Provence,04000
+5,Hautes-Alpes,05260
+6,Alpes-Maritimes,06710
+7,Ardèche,07530
+8,Ardennes,08430
+9,Ariège,09000
+10,Aube,10410
+11,Aude,11250
+12,Aveyron,12290
+13,Bouches-du-Rhône,13250
+14,Calvados,14320 May-sur-Orne
+15,Cantal,15800
+16,Charente,16430
+17,Charente-Maritime,17810
+18,Cher,18390
+19,Corrèze,19800
+2A,Corse-du-Sud,20190
+2B,Haute-Corse,20244
+21,Côte-d'Or,21440
+22,Côtes d'Armor,22800 Plaine-Haute
+23,Creuse,23150
+24,Dordogne,24660
+25,Doubs,25530
+26,Drôme,26340
+27,Eure,27110
+28,Eure-et-Loir,28120
+29,Finistère,29590 Lopérec
+30,Gard,30190
+31,Haute-Garonne,31410
+32,Gers,32350
+33,Gironde,33000
+34,Hérault,34800
+35,Ille-et-Vilaine,35830 Betton
+36,Indre,36250
+37,Indre-et-Loire,37250
+38,Isère,38113
+39,Jura,39210
+40,Landes,40110
+41,Loir-et-Cher,41350
+42,Loire,42110
+43,Haute-Loire,43350
+44,Loire-Atlantique,44130 Notre-Dame-des-Landes
+45,Loiret,45110
+46,Lot,46240
+47,Lot-et-Garonne,47260
+48,Lozère,48000
+49,Maine-et-Loire,49610
+50,Manche,50210 Camprond
+51,Marne,51510
+52,Haute-Marne,52000
+53,Mayenne,53950 La Chapelle-Anthenaise
+54,Meurthe-et-Moselle,54670
+55,Meuse,55220
+56,Morbihan,56500 Moustoir-Ac
+57,Moselle,57380
+58,Nièvre,58330
+59,Nord,59310
+60,Oise,60600
+61,Orne,61500
+62,Pas-de-Calais,62134
+63,Puy-de-Dôme,63170
+64,Pyrénées-Atlantiques,64190 Gurs
+65,Hautes-Pyrénées,65200
+66,Pyrénées-Orientales,66320
+67,Bas-Rhin,67370
+68,Haut-Rhin,68540
+69,Rhône,69380
+70,Haute-Saône,70000
+71,Saône-et-Loire,71460
+72,Sarthe,72000
+73,Savoie,73260
+74,Haute-Savoie,74130
+75,Paris,75001
+76,Seine-Maritime,76890
+77,Seine-et-Marne,77720
+78,Yvelines,78490
+79,Deux-Sèvres,79310
+80,Somme,80260
+81,Tarn,81120
+82,Tarn-et-Garonne,82130
+83,Var,83570
+84,Vaucluse,84210
+85,Vendée,85310 La Chaize-le-Vicomte
+86,Vienne,86800
+87,Haute-Vienne,87270
+88,Vosges,88390
+89,Yonne,89470
+90,Territoire de Belfort,90340
+91,Essonne,91510
+92,Hauts-de-Seine,92100
+93,Seine-St-Denis,93140
+94,Val-de-Marne,94000
+95,Val-D'Oise,95430
+971,Guadeloupe,
+972,Martinique,
+973,Guyane,
+974,La Réunion,
+976,Mayotte,

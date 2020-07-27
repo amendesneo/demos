@@ -1,0 +1,384 @@
+jobs,jobs_suggested,rome_code,rome_code_suggested,type
+Adjointe RH, Assistanat de direction,M1501,M1604 ,Strong
+Adjointe RH, Conseil en emploi et insertion socioprofessionnelle,M1501,K1801 ,Week
+Adjointe RH, Coordination pédagogique,M1501,K2102 ,Week
+Adjointe RH, Formation professionnelle,M1501,K2111 ,Week
+Adjointe RH, Formation professionnelle,M1501,K2111 ,Week
+Adjointe RH, Comptabilité,M1501,M1203 ,Week
+Adjointe RH, Développement des ressources humaines,M1501,M1502 ,Week
+Adjointe RH, Management des ressources humaines,M1501,M1503 ,Week
+Animateur sécurité, Médiation sociale et facilitation de la vie en société,K1205,K1204 ,Strong
+Animateur sécurité, Accueil et renseignements,K1205,M1601 ,Strong
+Animateur sécurité, Accompagnement et médiation familiale,K1205,K1101 ,Week
+Animateur sécurité, Action sociale,K1205,K1201 ,Week
+Animateur sécurité, Psychologie,K1205,K1104 ,Week
+Animateur sécurité, Intervention socioéducative,K1205,K1207 ,Week
+Animateur sécurité, Aide aux bénéficiaires d'une mesure de protection juridique,K1205,K1102 ,Week
+Animateur qualité , Direction de laboratoire d'analyse industrielle,H1502,H1501 ,Strong
+Animateur qualité , Management et ingénierie Hygiène Sécurité Environnement ,H1502,H1302 ,Strong
+Animateur qualité , Conseil en organisation et management d'entreprise,H1502,M1402 ,Week
+Animateur qualité , Management et ingénierie de production,H1502,H2502 ,Week
+Apprenti laboratoire , Analyses médicales,H1503,J1302 ,Strong
+Apprenti laboratoire , Intervention technique qualité en mécanique et travail des métaux,H1503,H1506 ,Strong
+Apprenti laboratoire ," Intervention technique en études, recherche et développement",H1503,H1210 ,Strong
+Apprenti laboratoire ," Management et ingénierie études, recherche et développement industriel",H1503,H1206 ,Week
+Apprenti laboratoire , Intervention technique en méthodes et industrialisation,H1503,H1404 ,Week
+Apprenti laboratoire , Intervention technique en Hygiène Sécurité Environnement ,H1503,H1303 ,Week
+Apprenti laboratoire , Direction de laboratoire d'analyse industrielle,H1503,H1501 ,Week
+Apprenti laboratoire , Management et ingénierie qualité industrielle,H1503,H1502 ,Week
+Apprenti sécurité, Personnel du hall,K2503,G1702 ,Strong
+Apprenti sécurité, Conduite et livraison par tournées sur courte distance,K2503,N4105 ,Strong
+Apprenti sécurité, Contrôle des transports en commun,K2503,N4302 ,Strong
+Apprenti sécurité, Gardiennage de locaux,K2503,K2501 ,Strong
+Apprenti sécurité, Entretien et surveillance du tracé routier,K2503,I1202 ,Strong
+Apprenti sécurité, Personnel d'attractions ou de structures de loisirs,K2503,G1205 ,Strong
+Apprenti sécurité, Conduite et livraison par tournées sur courte distance,K2503,N4105 ,Strong
+Apprenti sécurité, Surveillance municipale,K2503,K1707 ,Strong
+Apprenti sécurité, Conduite et livraison par tournées sur courte distance,K2503,N4105 ,Strong
+Apprenti sécurité, Conduite et livraison par tournées sur courte distance,K2503,N4105 ,Strong
+Apprenti sécurité, Conduite et livraison par tournées sur courte distance,K2503,N4105 ,Strong
+Apprenti sécurité, Sécurité civile et secours,K2503,K1705 ,Week
+Apprenti sécurité, Management de sécurité privée,K2503,K2502 ,Week
+Conducteur d'installation fruits, Conduite d'équipement de formage des plastiques et caoutchoucs,H2102,H3201 ,Strong
+Conducteur d'installation fruits, Conduite de machine de fabrication de produits textiles,H2102,H2403 ,Strong
+Conducteur d'installation fruits, Fermentation de boissons alcoolisées,H2102,A1413 ,Strong
+Conducteur d'installation fruits, Conduite de machine de production et transformation des fils,H2102,H2404 ,Strong
+Conducteur d'installation fruits, Conduite d'installation de pâte à papier,H2102,H3102 ,Strong
+Conducteur d'installation fruits, Façonnage et émaillage en industrie céramique,H2102,H2803 ,Strong
+Conducteur d'installation fruits," Préparation de matières et produits industriels (broyage, mélange, ...)",H2102,H3303 ,Strong
+Conducteur d'installation fruits, Conduite d'équipement de production chimique ou pharmaceutique,H2102,H2301 ,Strong
+Conducteur d'installation fruits, Conduite d'équipement de conditionnement,H2102,H3301 ,Strong
+Conducteur d'installation fruits, Conduite d'équipement de transformation du verre,H2102,H2801 ,Strong
+Conducteur d'installation fruits," Opérations manuelles d'assemblage, tri ou emballage",H2102,H3302 ,Strong
+Conducteur d'installation fruits, Fermentation de boissons alcoolisées,H2102,A1413 ,Strong
+Conducteur d'installation fruits," Conduite d'installation automatisée de production électrique, électronique et microélectronique",H2102,H2603 ,Strong
+Conducteur d'installation fruits, Intervention technique en gestion industrielle et logistique,H2102,H1403 ,Week
+Conducteur d'installation fruits, Intervention technique en méthodes et industrialisation,H2102,H1404 ,Week
+Conducteur d'installation fruits, Encadrement d'équipe en industrie de transformation,H2102,H2504 ,Week
+Conducteur d'installation fruits, Réglage d'équipement de production industrielle,H2102,H2912 ,Week
+Conducteur d'installation process , Conduite d'installation de pâte à papier,H2906,H3102 ,Strong
+Conducteur d'installation process , Montage,H2906,H2909 ,Strong
+Conducteur d'installation process , Conduite d'équipement d'usinage,H2906,H2903 ,Strong
+Conducteur d'installation process , Conduite d'équipement de formage et découpage des matériaux,H2906,H2905 ,Strong
+Conducteur d'installation process , Conduite d'installation de production des métaux,H2906,H2907 ,Strong
+Conducteur d'installation process , Conduite d'équipement de conditionnement,H2906,H3301 ,Strong
+Conducteur d'installation process , Conduite de traitement par dépôt de surface,H2906,H3402 ,Strong
+Conducteur d'installation process , Conduite de traitement d'abrasion de surface,H2906,H3401 ,Strong
+Conducteur d'installation process , Conduite d'équipement de production alimentaire,H2906,H2102 ,Strong
+Conducteur d'installation process , Peinture industrielle,H2906,H3404 ,Strong
+Conducteur d'installation process , Conduite d'équipement de déformation des métaux,H2906,H2904 ,Strong
+Conducteur d'installation process , Réglage d'équipement de production industrielle,H2906,H2912 ,Week
+Conducteur d'installation process , Pilotage d'unité élémentaire de production mécanique ou de travail des métaux,H2906,H2503 ,Week
+Conducteur de ligne ," Écriture d'ouvrages, de livres",L1304,E1102 ,Strong
+Conducteur de ligne ," Écriture d'ouvrages, de livres",L1304,E1102 ,Strong
+Conducteur de ligne ," Production et administration spectacle, cinéma et audiovisuel",L1304,L1302 ,Week
+Conducteur de palettiseur centralisé, Conduite d'équipement de transformation du verre,H3301,H2801 ,Strong
+Conducteur de palettiseur centralisé, Conduite d'équipement de production chimique ou pharmaceutique,H3301,H2301 ,Strong
+Conducteur de palettiseur centralisé, Conduite d'équipement de formage des plastiques et caoutchoucs,H3301,H3201 ,Strong
+Conducteur de palettiseur centralisé, Conduite de machines de façonnage routage,H3301,E1302 ,Strong
+Conducteur de palettiseur centralisé, Façonnage et émaillage en industrie céramique,H3301,H2803 ,Strong
+Conducteur de palettiseur centralisé, Conduite d'équipement de production alimentaire,H3301,H2102 ,Strong
+Conducteur de palettiseur centralisé, Montage,H3301,H2909 ,Strong
+Conducteur de palettiseur centralisé, Conduite d'équipement de fabrication de papier ou de carton,H3301,H3101 ,Strong
+Conducteur de palettiseur centralisé, Magasinage et préparation de commandes,H3301,N1103 ,Strong
+Conducteur de palettiseur centralisé, Conduite d'installation de production de matériaux de construction,H3301,H2802 ,Strong
+Conducteur de palettiseur centralisé, Encadrement d'équipe en industrie de transformation,H3301,H2504 ,Week
+Conducteur de palettiseur centralisé, Installation et maintenance de distributeurs automatiques,H3301,I1303 ,Week
+Conducteur de palettiseur centralisé, Réglage d'équipement de production industrielle,H3301,H2912 ,Week
+Conducteur de palettiseur centralisé, Intervention technique en méthodes et industrialisation,H3301,H1404 ,Week
+Conducteur de palettiseur centralisé, Installation et maintenance d'équipements industriels et d'exploitation,H3301,I1304 ,Week
+Coordinateur technique," Management et ingénierie études, recherche et développement industriel",H1101,H1206 ,Strong
+Coordinateur technique, Achats,H1101,M1101 ,Strong
+Coordinateur technique, Management et ingénierie méthodes et industrialisation,H1101,H1402 ,Strong
+Coordinateur technique, Management et ingénierie de maintenance industrielle,H1101,I1102 ,Strong
+Coordinateur technique, Rédaction technique,H1101,H1207 ,Strong
+Coordinateur technique, Management et ingénierie d'affaires,H1101,H1102 ,Week
+Coordinateur technique, Management relation clientèle,H1101,M1704 ,Week
+Gestionnaire matières premières, Intervention technique en méthodes et industrialisation,H1403,H1404 ,Strong
+Gestionnaire matières premières, Intervention technique d'exploitation logistique,H1403,N1303 ,Strong
+Gestionnaire matières premières, Pilotage d'installation de production verrière,H1403,H2805 ,Strong
+Gestionnaire matières premières, Supervision d'entretien et gestion de véhicules,H1403,I1103 ,Week
+Gestionnaire matières premières, Conception et organisation de la chaîne logistique,H1403,N1301 ,Week
+Gestionnaire matières premières, Encadrement d'équipe en industrie de transformation,H1403,H2504 ,Week
+Gestionnaire matières premières, Direction de site logistique,H1403,N1302 ,Week
+Gestionnaire matières premières, Management et ingénierie gestion industrielle et logistique,H1403,H1401 ,Week
+Infirmière , Formation professionnelle,J1506,K2111 ,Strong
+Infirmière , Soins infirmiers spécialisés en prévention,J1506,J1505 ,Strong
+Infirmière , Conseil en information médicale,J1506,D1405 ,Strong
+Infirmière , Coordination de services médicaux ou paramédicaux,J1506,J1502 ,Week
+Infirmière , Soins infirmiers spécialisés en bloc opératoire,J1506,J1504 ,Week
+Infirmière , Soins infirmiers spécialisés en anesthésie,J1506,J1503 ,Week
+Infirmière ," Management de structure de santé, sociale ou pénitentiaire",J1506,K1403 ,Week
+Infirmière , Développement personnel et bien,J1506,K1103 ,Week
+Infirmière , Soins infirmiers spécialisés en puériculture,J1506,J1507 ,Week
+Ingénieur études, Management et ingénierie méthodes et industrialisation,H1206,H1402 ,Strong
+Ingénieur études, Direction de laboratoire d'analyse industrielle,H1206,H1501 ,Strong
+Ingénieur études," Recherche en sciences de l'univers, de la matière et du vivant",H1206,K2402 ,Strong
+Ingénieur études, Management et ingénierie qualité industrielle,H1206,H1502 ,Week
+Ingénieur études, Management et ingénierie d'affaires,H1206,H1102 ,Week
+Ingénieur études, Conseil en organisation et management d'entreprise,H1206,M1402 ,Week
+Ingénieur études, Intervention technique en Hygiène Sécurité Environnement ,H1206,H1303 ,Week
+Ingénieur études, Management et ingénierie de production,H1206,H2502 ,Week
+Ingénieur études, Management et ingénierie de maintenance industrielle,H1206,I1102 ,Week
+Ingénieur études, Direction de grande entreprise ou d'établissement public,H1206,M1301 ,Week
+Ingénieur études, Direction de petite ou moyenne entreprise,H1206,M1302 ,Week
+Ingénieur études, Assistance et support technique client,H1206,H1101 ,Week
+Ingénieur études, Management et ingénierie Hygiène Sécurité Environnement ,H1206,H1302 ,Week
+Ingénieur études, Enseignement supérieur,H1206,K2108 ,Week
+Apprenti laboratoire , Analyses médicales,H1503,J1302 ,Strong
+Apprenti laboratoire , Intervention technique qualité en mécanique et travail des métaux,H1503,H1506 ,Strong
+Apprenti laboratoire ," Intervention technique en études, recherche et développement",H1503,H1210 ,Strong
+Apprenti laboratoire , Intervention technique en méthodes et industrialisation,H1503,H1404 ,Week
+Apprenti laboratoire , Intervention technique en Hygiène Sécurité Environnement ,H1503,H1303 ,Week
+Apprenti laboratoire , Management et ingénierie qualité industrielle,H1503,H1502 ,Week
+Apprenti laboratoire , Direction de laboratoire d'analyse industrielle,H1503,H1501 ,Week
+Apprenti laboratoire ," Management et ingénierie études, recherche et développement industriel",H1503,H1206 ,Week
+Magasinier pièces détachées , Conduite d'équipement de conditionnement,N1103,H3301 ,Strong
+Magasinier pièces détachées , Mise en rayon libre,N1103,D1507 ,Strong
+Magasinier pièces détachées ," Opérations manuelles d'assemblage, tri ou emballage",N1103,H3302 ,Strong
+Magasinier pièces détachées , Conduite d'engins de déplacement des charges,N1103,N1101 ,Strong
+Magasinier pièces détachées , Blanchisserie industrielle,N1103,K2201 ,Strong
+Magasinier pièces détachées , Exploitation des pistes aéroportuaires,N1103,N2203 ,Strong
+Magasinier pièces détachées ," Préparation de matières et produits industriels (broyage, mélange, ...)",N1103,H3303 ,Strong
+Magasinier pièces détachées , Manutention manuelle de charges,N1103,N1105 ,Strong
+Magasinier pièces détachées , Conduite et livraison par tournées sur courte distance,N1103,N4105 ,Strong
+Magasinier pièces détachées , Façonnage et routage,N1103,E1304 ,Strong
+Magasinier pièces détachées , Vente en gros de matériel et équipement,N1103,D1213 ,Week
+Magasinier pièces détachées , Intervention technique d'exploitation logistique,N1103,N1303 ,Week
+Manager en ressources humaines , Développement des ressources humaines,M1503,M1502 ,Strong
+Manager en ressources humaines , Conseil en organisation et management d'entreprise,M1503,M1402 ,Strong
+Manager en ressources humaines , Direction administrative et financière,M1503,M1205 ,Week
+Manager en ressources humaines , Direction de grande entreprise ou d'établissement public,M1503,M1301 ,Week
+Manager en ressources humaines , Direction de petite ou moyenne entreprise,M1503,M1302 ,Week
+Manager en ressources humaines , Formation professionnelle,M1503,K2111 ,Week
+Manager optimisation produit , Management et ingénierie méthodes et industrialisation,H1401,H1402 ,Strong
+Manager optimisation produit , Conception et organisation de la chaîne logistique,H1401,N1301 ,Strong
+Manager optimisation produit , Direction de site logistique,H1401,N1302 ,Strong
+Manager optimisation produit , Direction d'exploitation des transports routiers de marchandises,H1401,N4201 ,Week
+Manager optimisation produit , Management et ingénierie qualité industrielle,H1401,H1502 ,Week
+Manager optimisation produit , Conseil en organisation et management d'entreprise,H1401,M1402 ,Week
+Manager optimisation produit , Direction de grande entreprise ou d'établissement public,H1401,M1301 ,Week
+Manager optimisation produit , Management et ingénierie de production,H1401,H2502 ,Week
+Manager optimisation produit , Direction de petite ou moyenne entreprise,H1401,M1302 ,Week
+Manager optimisation produit , Management et ingénierie de maintenance industrielle,H1401,I1102 ,Week
+Opérateur cariste , Manoeuvre et conduite d'engins lourds de manutention,N1101,N1104 ,Strong
+Opérateur cariste , Conduite d'engins agricoles et forestiers,N1101,A1101 ,Strong
+Opérateur cariste , Magasinage et préparation de commandes,N1101,N1103 ,Strong
+Opérateur cariste , Manutention portuaire,N1101,N3203 ,Strong
+Opérateur cariste , Exploitation des pistes aéroportuaires,N1101,N2203 ,Strong
+Opérateur cariste , Formation en conduite de véhicules,N1101,K2110 ,Week
+Opérateur cariste , Conduite de grue,N1101,F1301 ,Week
+Opérateur cariste , Intervention technique d'exploitation logistique,N1101,N1303 ,Week
+Opérateur cariste , Conduite d'engins de terrassement et de carrière,N1101,F1302 ,Week
+Magasinier pièces détachées ," Préparation de matières et produits industriels (broyage, mélange, ...)",N1103,H3303 ,Strong
+Magasinier pièces détachées , Conduite et livraison par tournées sur courte distance,N1103,N4105 ,Strong
+Magasinier pièces détachées , Blanchisserie industrielle,N1103,K2201 ,Strong
+Magasinier pièces détachées , Manutention manuelle de charges,N1103,N1105 ,Strong
+Magasinier pièces détachées , Exploitation des pistes aéroportuaires,N1103,N2203 ,Strong
+Magasinier pièces détachées , Mise en rayon libre,N1103,D1507 ,Strong
+Magasinier pièces détachées , Conduite d'équipement de conditionnement,N1103,H3301 ,Strong
+Magasinier pièces détachées ," Opérations manuelles d'assemblage, tri ou emballage",N1103,H3302 ,Strong
+Magasinier pièces détachées , Façonnage et routage,N1103,E1304 ,Strong
+Magasinier pièces détachées , Conduite d'engins de déplacement des charges,N1103,N1101 ,Strong
+Magasinier pièces détachées , Intervention technique d'exploitation logistique,N1103,N1303 ,Week
+Magasinier pièces détachées , Vente en gros de matériel et équipement,N1103,D1213 ,Week
+Opérateur de tri selectif ," Opérations manuelles d'assemblage, tri ou emballage",K2304,H3302 ,Strong
+Opérateur de tri selectif , Nettoyage des espaces urbains,K2304,K2303 ,Strong
+Opérateur de tri selectif , Magasinage et préparation de commandes,K2304,N1103 ,Strong
+Opérateur de tri selectif , Contrôle en industrie du cuir et du textile,K2304,H2415 ,Strong
+Opérateur de tri selectif , Contrôle en industrie du cuir et du textile,K2304,H2415 ,Strong
+Opérateur de tri selectif , Nettoyage de locaux,K2304,K2204 ,Strong
+Opérateur de tri selectif , Manutention manuelle de charges,K2304,N1105 ,Strong
+Opérateur de tri selectif , Blanchisserie industrielle,K2304,K2201 ,Strong
+Opérateur de tri selectif , Salubrité et traitement de nuisibles,K2304,K2305 ,Strong
+Opérateur de tri selectif , Conduite d'installation automatisée ou robotisée de fabrication mécanique,K2304,H2906 ,Week
+Opérateur de tri selectif , Assemblage d'ouvrages en bois,K2304,H2201 ,Week
+Opérateur de tri selectif , Conduite et livraison par tournées sur courte distance,K2304,N4105 ,Week
+Opérateur de tri selectif , Déménagement,K2304,N1102 ,Week
+Opérateur de tri selectif , Encadrement technique en insertion professionnelle,K2304,K1203 ,Week
+Opérateur de tri selectif , Gardiennage de locaux,K2304,K2501 ,Week
+Opérateur de tri selectif , Conduite d'engins de déplacement des charges,K2304,N1101 ,Week
+Opérateur de tri selectif , Montage,K2304,H2909 ,Week
+Opérateur process poudrage , Conduite de traitement par dépôt de surface,H3404,H3402 ,Strong
+Opérateur process poudrage , Montage,H3404,H2909 ,Strong
+Opérateur process poudrage , Réparation de carrosserie,H3404,I1606 ,Strong
+Opérateur process poudrage , Fabrication de pièces en matériaux composites,H3404,H3203 ,Strong
+Opérateur process poudrage , Conduite de traitement d'abrasion de surface,H3404,H3401 ,Strong
+Opérateur process poudrage , Conduite d'installation automatisée ou robotisée de fabrication mécanique,H3404,H2906 ,Strong
+Opérateur process poudrage , Pilotage d'unité élémentaire de production mécanique ou de travail des métaux,H3404,H2503 ,Week
+Plan director , Expertise et support en systèmes d'information,M1402,M1802 ,Strong
+Plan director , Développement des ressources humaines,M1402,M1502 ,Strong
+Plan director , Conseil en formation,M1402,K2101 ,Strong
+Plan director , Développement local,M1402,K1802 ,Strong
+Plan director , Management et ingénierie qualité industrielle,M1402,H1502 ,Week
+Plan director , Management des ressources humaines,M1402,M1503 ,Week
+Plan director , Management et ingénierie Hygiène Sécurité Environnement ,M1402,H1302 ,Week
+Plan director , Management et ingénierie d'affaires,M1402,H1102 ,Week
+Plan director , Direction de petite ou moyenne entreprise,M1402,M1302 ,Week
+Process engineer, Management et ingénierie qualité industrielle,H1402,H1502 ,Week
+Process engineer, Management et ingénierie Hygiène Sécurité Environnement ,H1402,H1302 ,Week
+Process engineer, Management et ingénierie de maintenance industrielle,H1402,I1102 ,Week
+Process engineer, Formation professionnelle,H1402,K2111 ,Week
+Process engineer," Management et ingénierie études, recherche et développement industriel",H1402,H1206 ,Week
+Process engineer, Management et ingénierie de production,H1402,H2502 ,Week
+Process engineer, Conseil en organisation et management d'entreprise,H1402,M1402 ,Week
+Professionnel de restauration , Personnel polyvalent en restauration,G1803,G1603 ,Strong
+Professionnel de restauration ," Café, bar brasserie",G1803,G1801 ,Strong
+Professionnel de restauration , Gestion de structure de loisirs ou d'hébergement touristique,G1803,G1403 ,Week
+Professionnel de restauration , Sommellerie,G1803,G1804 ,Week
+Professionnel de restauration , Management du service en restauration,G1803,G1802 ,Week
+Professionnel de restauration , Assistance de direction d'hôtel,G1803,G1401 ,Week
+Professionnel de restauration , Management d'hôtel,G1803,G1402 ,Week
+Responsable maintenance opérationnelle , Promotion d'artistes et de spectacles,L1102,L1303 ,Week
+Responsable maintenance opérationnelle , Art dramatique,L1102,L1203 ,Week
+Responsable conditionnement , Management et ingénierie de maintenance industrielle,H2502,I1102 ,Strong
+Responsable conditionnement , Management et ingénierie qualité industrielle,H2502,H1502 ,Strong
+Responsable conditionnement , Management et ingénierie Hygiène Sécurité Environnement ,H2502,H1302 ,Strong
+Responsable conditionnement , Management et ingénierie méthodes et industrialisation,H2502,H1402 ,Strong
+Responsable conditionnement , Direction de laboratoire d'analyse industrielle,H2502,H1501 ,Strong
+Responsable conditionnement , Direction de grande entreprise ou d'établissement public,H2502,M1301 ,Week
+Responsable conditionnement ," Management et ingénierie études, recherche et développement industriel",H2502,H1206 ,Week
+Responsable conditionnement ," Recherche en sciences de l'univers, de la matière et du vivant",H2502,K2402 ,Week
+Responsable conditionnement , Conseil en organisation et management d'entreprise,H2502,M1402 ,Week
+Responsable conditionnement , Direction de petite ou moyenne entreprise,H2502,M1302 ,Week
+Manager optimisation produit , Conception et organisation de la chaîne logistique,H1401,N1301 ,Strong
+Manager optimisation produit , Management et ingénierie méthodes et industrialisation,H1401,H1402 ,Strong
+Manager optimisation produit , Direction de site logistique,H1401,N1302 ,Strong
+Manager optimisation produit , Management et ingénierie qualité industrielle,H1401,H1502 ,Week
+Manager optimisation produit , Conseil en organisation et management d'entreprise,H1401,M1402 ,Week
+Manager optimisation produit , Direction de petite ou moyenne entreprise,H1401,M1302 ,Week
+Manager optimisation produit , Management et ingénierie de maintenance industrielle,H1401,I1102 ,Week
+Manager optimisation produit , Management et ingénierie de production,H1401,H2502 ,Week
+Manager optimisation produit , Direction d'exploitation des transports routiers de marchandises,H1401,N4201 ,Week
+Manager optimisation produit , Direction de grande entreprise ou d'établissement public,H1401,M1301 ,Week
+Responsable de quart, Intervention technique en gestion industrielle et logistique,H2504,H1403 ,Strong
+Responsable de quart, Intervention technique en méthodes et industrialisation,H2504,H1404 ,Strong
+Responsable de quart, Pilotage d'unité élémentaire de production mécanique ou de travail des métaux,H2504,H2503 ,Strong
+Responsable de quart, Intervention technique en Hygiène Sécurité Environnement ,H2504,H1303 ,Strong
+Responsable de quart, Supervision d'exploitation éco,H2504,K2306 ,Strong
+Responsable de quart, Relation technico,H2504,D1407 ,Week
+Responsable de quart, Encadrement des industries graphiques,H2504,E1303 ,Week
+Responsable de quart, Installation et maintenance d'équipements industriels et d'exploitation,H2504,I1304 ,Week
+Responsable de quart, Encadrement de production de matériel électrique et électronique,H2504,H2501 ,Week
+Responsable de quart, Management et ingénierie méthodes et industrialisation,H2504,H1402 ,Week
+Responsable de quart, Direction de petite ou moyenne entreprise,H2504,M1302 ,Week
+Responsable de quart, Encadrement des industries de l'ameublement et du bois,H2504,H2204 ,Week
+Responsable de quart, Management et ingénierie gestion industrielle et logistique,H2504,H1401 ,Week
+Responsable de quart, Encadrement d'équipe ou d'atelier en matériaux souples,H2504,H2505 ,Week
+Responsable de quart, Management et ingénierie de production,H2504,H2502 ,Week
+Coordinateur technique," Management et ingénierie études, recherche et développement industriel",H1101,H1206 ,Strong
+Coordinateur technique, Rédaction technique,H1101,H1207 ,Strong
+Coordinateur technique, Management et ingénierie méthodes et industrialisation,H1101,H1402 ,Strong
+Coordinateur technique, Achats,H1101,M1101 ,Strong
+Coordinateur technique, Management et ingénierie de maintenance industrielle,H1101,I1102 ,Strong
+Coordinateur technique, Management relation clientèle,H1101,M1704 ,Week
+Coordinateur technique, Management et ingénierie d'affaires,H1101,H1102 ,Week
+Technicien/ne de maintenance, Installation et maintenance d'automatismes,I1304,I1302 ,Strong
+Technicien/ne de maintenance, Maintenance électrique,I1304,I1309 ,Strong
+Technicien/ne de maintenance, Maintenance mécanique industrielle,I1304,I1310 ,Strong
+Technicien/ne de maintenance, Pilotage d'unité élémentaire de production mécanique ou de travail des métaux,I1304,H2503 ,Strong
+Technicien/ne de maintenance, Installation et maintenance d'ascenseurs,I1304,I1301 ,Week
+Technicien/ne de maintenance, Relation technico,I1304,D1407 ,Week
+Technicien/ne de maintenance, Intervention technique en études et conception en automatisme,I1304,H1208 ,Week
+Technicien/ne de maintenance, Relation commerciale grands comptes et entreprises,I1304,D1402 ,Week
+Technicien/ne de maintenance, Inspection de conformité,I1304,H1301 ,Week
+Technicien/ne de maintenance, Management et ingénierie de maintenance industrielle,I1304,I1102 ,Week
+Technicien/ne de maintenance, Conception et dessin produits mécaniques,I1304,H1203 ,Week
+Technicien/ne de maintenance, Intervention technique en études et développement électronique,I1304,H1209 ,Week
+TECHNICIEN SERVICES GENERAUX, Nettoyage de locaux,I1203,K2204 ,Strong
+TECHNICIEN SERVICES GENERAUX, Entretien d'affichage et mobilier urbain,I1203,I1201 ,Strong
+TECHNICIEN SERVICES GENERAUX, Gardiennage de locaux,I1203,K2501 ,Strong
+TECHNICIEN SERVICES GENERAUX, Électricité bâtiment,I1203,F1602 ,Week
+TECHNICIEN SERVICES GENERAUX, Installation d'équipements sanitaires et thermiques,I1203,F1603 ,Week
+TECHNICIEN SERVICES GENERAUX, Aménagement et entretien des espaces verts,I1203,A1203 ,Week
+TECHNICIEN SERVICES GENERAUX, Maintenance électrique,I1203,I1309 ,Week
+TECHNICIEN SERVICES GENERAUX, Peinture en bâtiment,I1203,F1606 ,Week
+Technicien Qualite Support des Operations, Intervention technique en méthodes et industrialisation,H1506,H1404 ,Strong
+Technicien Qualite Support des Operations, Pilotage d'unité élémentaire de production mécanique ou de travail des métaux,H1506,H2503 ,Strong
+Technicien Qualite Support des Operations, Intervention technique en Hygiène Sécurité Environnement ,H1506,H1303 ,Strong
+Technicien Qualite Support des Operations, Intervention technique en laboratoire d'analyse industrielle,H1506,H1503 ,Strong
+Technicien Qualite Support des Operations, Inspection de conformité,H1506,H1301 ,Strong
+Technicien Qualite Support des Operations, Intervention technique en contrôle essai qualité en électricité et électronique,H1506,H1504 ,Week
+Technicien Qualite Support des Operations, Formation professionnelle,H1506,K2111 ,Week
+Technicien Qualite Support des Operations, Assistance et support technique client,H1506,H1101 ,Week
+Technicien Qualite Support des Operations," Intervention technique en études, recherche et développement",H1506,H1210 ,Week
+Technicien Qualite Support des Operations, Direction de laboratoire d'analyse industrielle,H1506,H1501 ,Week
+Technicien Qualite Support des Operations, Management et ingénierie qualité industrielle,H1506,H1502 ,Week
+Technicien Qualite Support des Operations, Rédaction technique,H1506,H1207 ,Week
+Technicien Preparateur Process, Conception et dessin de produits électriques et électroniques,H1404,H1202 ,Strong
+Technicien Preparateur Process, Conception et dessin produits mécaniques,H1404,H1203 ,Strong
+Technicien Preparateur Process, Assistance et support technique client,H1404,H1101 ,Strong
+Technicien Preparateur Process, Intervention technique qualité en mécanique et travail des métaux,H1404,H1506 ,Strong
+Technicien Preparateur Process, Rédaction technique,H1404,H1207 ,Strong
+Technicien Preparateur Process, Intervention technique en gestion industrielle et logistique,H1404,H1403 ,Strong
+Technicien Preparateur Process, Intervention technique en contrôle essai qualité en électricité et électronique,H1404,H1504 ,Strong
+Technicien Preparateur Process, Intervention technique en ameublement et bois,H1404,H2209 ,Week
+Technicien Preparateur Process, Management et ingénierie méthodes et industrialisation,H1404,H1402 ,Week
+Technicien Preparateur Process, Pilotage d'unité élémentaire de production mécanique ou de travail des métaux,H1404,H2503 ,Week
+Technicien Preparateur Process," Intervention technique en études, recherche et développement",H1404,H1210 ,Week
+Technicien Preparateur Process, Formation professionnelle,H1404,K2111 ,Week
+Technicien Preparateur Process, Intervention technique en Hygiène Sécurité Environnement ,H1404,H1303 ,Week
+Technicien Preparateur Process, Intervention technique en études et développement électronique,H1404,H1209 ,Week
+Technicien Preparateur Process, Relation technico,H1404,D1407 ,Week
+Gestionnaire matières premières, Intervention technique d'exploitation logistique,H1403,N1303 ,Strong
+Gestionnaire matières premières, Intervention technique en méthodes et industrialisation,H1403,H1404 ,Strong
+Gestionnaire matières premières, Pilotage d'installation de production verrière,H1403,H2805 ,Strong
+Gestionnaire matières premières, Management et ingénierie gestion industrielle et logistique,H1403,H1401 ,Week
+Gestionnaire matières premières, Direction de site logistique,H1403,N1302 ,Week
+Gestionnaire matières premières, Supervision d'entretien et gestion de véhicules,H1403,I1103 ,Week
+Gestionnaire matières premières, Conception et organisation de la chaîne logistique,H1403,N1301 ,Week
+Gestionnaire matières premières, Encadrement d'équipe en industrie de transformation,H1403,H2504 ,Week
+Technicien Automatisme et Outil Performance, Installation et maintenance d'automatismes,H1208,I1302 ,Strong
+Technicien Automatisme et Outil Performance, Intervention technique en études et développement électronique,H1208,H1209 ,Strong
+Technicien Automatisme et Outil Performance, Installation et maintenance d'équipements industriels et d'exploitation,H1208,I1304 ,Strong
+Technicien Automatisme et Outil Performance, Conception et dessin de produits électriques et électroniques,H1208,H1202 ,Strong
+Technicien Automatisme et Outil Performance, Relation technico,H1208,D1407 ,Week
+Technicien Automatisme et Outil Performance, Enseignement technique et professionnel,H1208,K2109 ,Week
+Technicien Automatisme et Outil Performance, Rédaction technique,H1208,H1207 ,Week
+Technicien Automatisme et Outil Performance, Assistance et support technique client,H1208,H1101 ,Week
+Technicien Automatisme et Outil Performance," Management et ingénierie études, recherche et développement industriel",H1208,H1206 ,Week
+Technicien Automatisme et Outil Performance, Formation professionnelle,H1208,K2111 ,Week
+Technicien Automatisme et Outil Performance, Management et ingénierie d'affaires,H1208,H1102 ,Week
+Responsable Technique Cellule, Installation et maintenance d'équipements industriels et d'exploitation,I1102,I1304 ,Strong
+Responsable Technique Cellule, Management et ingénierie de production,I1102,H2502 ,Strong
+Responsable Technique Cellule, Assistance et support technique client,I1102,H1101 ,Strong
+Responsable Technique Cellule, Management et ingénierie Hygiène Sécurité Environnement ,I1102,H1302 ,Week
+Responsable Technique Cellule, Management et ingénierie qualité industrielle,I1102,H1502 ,Week
+Responsable Technique Cellule, Conseil en organisation et management d'entreprise,I1102,M1402 ,Week
+Responsable Technique Cellule, Management et ingénierie méthodes et industrialisation,I1102,H1402 ,Week
+Responsable Technique Cellule, Supervision d'exploitation éco,I1102,K2306 ,Week
+Manager en ressources humaines , Conseil en organisation et management d'entreprise,M1503,M1402 ,Strong
+Manager en ressources humaines , Développement des ressources humaines,M1503,M1502 ,Strong
+Manager en ressources humaines , Direction administrative et financière,M1503,M1205 ,Week
+Manager en ressources humaines , Direction de grande entreprise ou d'établissement public,M1503,M1301 ,Week
+Manager en ressources humaines , Formation professionnelle,M1503,K2111 ,Week
+Manager en ressources humaines , Direction de petite ou moyenne entreprise,M1503,M1302 ,Week
+Responsable restaurant, Organisation d'évènementiel,G1802,E1107 ,Week
+Responsable restaurant, Assistance de direction d'hôtel,G1802,G1401 ,Week
+Responsable restaurant, Sommellerie,G1802,G1804 ,Week
+Responsable restaurant, Management d'hôtel,G1802,G1402 ,Week
+Responsable restaurant, Formation professionnelle,G1802,K2111 ,Week
+Animateur qualité , Management et ingénierie Hygiène Sécurité Environnement ,H1502,H1302 ,Strong
+Animateur qualité , Direction de laboratoire d'analyse industrielle,H1502,H1501 ,Strong
+Animateur qualité , Management et ingénierie de production,H1502,H2502 ,Week
+Animateur qualité , Conseil en organisation et management d'entreprise,H1502,M1402 ,Week
+Responsable de quart, Intervention technique en méthodes et industrialisation,H2504,H1404 ,Strong
+Responsable de quart, Pilotage d'unité élémentaire de production mécanique ou de travail des métaux,H2504,H2503 ,Strong
+Responsable de quart, Supervision d'exploitation éco,H2504,K2306 ,Strong
+Responsable de quart, Intervention technique en Hygiène Sécurité Environnement ,H2504,H1303 ,Strong
+Responsable de quart, Intervention technique en gestion industrielle et logistique,H2504,H1403 ,Strong
+Responsable de quart, Installation et maintenance d'équipements industriels et d'exploitation,H2504,I1304 ,Week
+Responsable de quart, Management et ingénierie méthodes et industrialisation,H2504,H1402 ,Week
+Responsable de quart, Encadrement de production de matériel électrique et électronique,H2504,H2501 ,Week
+Responsable de quart, Relation technico,H2504,D1407 ,Week
+Responsable de quart, Encadrement des industries graphiques,H2504,E1303 ,Week
+Responsable de quart, Management et ingénierie gestion industrielle et logistique,H2504,H1401 ,Week
+Responsable de quart, Encadrement d'équipe ou d'atelier en matériaux souples,H2504,H2505 ,Week
+Responsable de quart, Direction de petite ou moyenne entreprise,H2504,M1302 ,Week
+Responsable de quart, Management et ingénierie de production,H2504,H2502 ,Week
+Responsable de quart, Encadrement des industries de l'ameublement et du bois,H2504,H2204 ,Week
+RESPONSABLE LABORATOIRE, Management et ingénierie Hygiène Sécurité Environnement ,H1501,H1302 ,Strong
+RESPONSABLE LABORATOIRE, Management et ingénierie qualité industrielle,H1501,H1502 ,Strong
+RESPONSABLE LABORATOIRE, Management et ingénierie de production,H1501,H2502 ,Strong
+RESPONSABLE LABORATOIRE," Recherche en sciences de l'univers, de la matière et du vivant",H1501,K2402 ,Week
+RESPONSABLE LABORATOIRE," Management et ingénierie études, recherche et développement industriel",H1501,H1206 ,Week
